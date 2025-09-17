@@ -100,7 +100,7 @@ const serviceData = {
     faqs: [
       {
         question: 'How long does plaster take to dry?',
-        answer: 'Typically 24-48 hours depending on thickness and room conditions. We\'ll advise when it's ready to decorate.'
+        answer: 'Typically 24-48 hours depending on thickness and room conditions. We\'ll advise when it\'s ready to decorate.'
       },
       {
         question: 'Can you remove Artex?',
