@@ -4,6 +4,7 @@ import Footer from '@/components/Footer';
 import CallBar from '@/components/CallBar';
 
 export const metadata = {
+  metadataBase: new URL(process.env.NEXT_PUBLIC_SITE_URL || 'https://elandlmaintenance.co.uk'),
   title: {
     default: 'E&L Property Maintenance - Milton Keynes | Smart fixes. Sharp finishes.',
     template: '%s | E&L Property Maintenance'
